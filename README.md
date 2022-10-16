@@ -40,7 +40,7 @@ This is a supervised classification task. The objective is to classify these doc
 ### Data exploration
 Analyze the shape of documents, distribution of words, topic modelling, etc...
 
-### Preprocessing
+### Word representation
 Build a preprocessing pipeline:
 * Tokenization
 * Text normalisation (eg lemmatisation)
